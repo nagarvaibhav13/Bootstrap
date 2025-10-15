@@ -1,0 +1,15 @@
+
+
+.reserve-btn {
+            background-color: #f4b400;
+            color: #fff;
+            border-radius: 25px;
+            padding: 8px 24px;
+            font-weight: 500;
+            border: none;
+        }
+
+ .reserve-btn:hover {
+            background-color: #e09c00;
+            color: #fff;
+        }
